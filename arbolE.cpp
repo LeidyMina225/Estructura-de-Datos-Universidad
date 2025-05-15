@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cstring>
+//integrantes: LEIDY MELISSA GIRALDO MINA & LICETH YAILINETH RIASCOS ESCOBAR 
 
 using namespace std;
 
