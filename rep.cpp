@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cstring>
 
+// Leidy Melissa Giraldo Mina & Johan Andres Paz Barrante 
+
 using namespace std;
 
 struct Pelicula {
